@@ -6,7 +6,7 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 **Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin).
 
-**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating is about listening.
+**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating effectively is about listening.
 
 **Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, theatre and originally composed music).
 
