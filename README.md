@@ -13,11 +13,13 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 ## Projects
 
-| Name                         | Description                                                             | Tech/tools        |
-| ---------------------------- | ----------------------------------------------------------------------- | ----------------- |
-|  
-| Student Directory            | A command line app to interact with a list of students and their cohort | Ruby              |
-
+| Name                         | Description                                                             | Tech/tools                          |
+| ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
+| OpenBook                     | An independent bookshop finder                                          | Javascript, MongDB Atlas, Jade.     | 
+|----------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
+| MakersBNB                    | A clone of AirBNB                                                       | Ruby                                |
+| Student Directory            | A command line app to interact with a list of students and their cohort | Ruby                                |
+  
 
 ## Work Experience
 
