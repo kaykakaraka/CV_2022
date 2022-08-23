@@ -1,4 +1,4 @@
-## Kay Dent
+<h2 style='color: red;'>## Kay Dent</h2>
 
 A Software Developer trained at Makers Academy. My background in the creative and education industries makes me an excellent communicator and team player.  I love solving problems, discovering new things, and the little fizz of satisfaction when the code finally passes your test.
 
