@@ -63,5 +63,5 @@ This makes me well suited to software development teams of all sizes. In my Make
 **Violin** - entertainment available \
 **Gardening** - always willing to supply homegrown courgettes \
 **Writing** - Samples on request and in return for praise \
-**Organising random events for fun** - I may invite you to a poetry night at some point \
+**Organising creative events** - I still work on creative events in my spare time - I may invite you to a poetry reading at some point! \
 **Reading** - The English degree didn't quite put me off 
