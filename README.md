@@ -4,8 +4,12 @@
 
 <p>
   <div align="center">
+    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#about-me">About Me</a> | 
     <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#projects">Projects</a> |  
-    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#skills">Skills</a> 
+    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#skills">Skills</a> |
+    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#professional-experience">Professional Experience</a> |
+    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#education">Education</a> |
+    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#hobbies">Hobbies</a>
   </div>
 </p>
 
@@ -39,7 +43,8 @@ This makes me well suited to software development teams of all sizes. In my Make
   
 My versatility means I'm able to deal with the multiple, sometimes apparently conflicting, demands within software engineering, and adapt quickly to new tech stacks. Having worked as a freelancer also means I have a good understanding of business more generally, including the need to make tech that has real-world implementation, explaining my work to others, and balancing competitive quality (sometime perfectionism!) with delivering in a timely way.
 
-## Work Experience
+Professional Experience
+-------------
 
 **Freelance Theatre Maker** 2016 - 2022
 - Shows including digital experience 'how to go outside' which opened my eyes to the creative potential of tech
@@ -61,7 +66,8 @@ My versatility means I'm able to deal with the multiple, sometimes apparently co
 - touring and working intensively with a small group
 - puppeteering
 
-## Education
+Education
+--------
 
 #### Makers Academy May 2022 - Now
 - Frequent pairing and group work developed my ability to work in a team
@@ -75,7 +81,8 @@ My versatility means I'm able to deal with the multiple, sometimes apparently co
 - JCR Charities, Environments and Campaigns Officer for 2 years
 - I did a lot of plays!
 
-## Hobbies
+Hobbies
+-------
 
 **Violin** - entertainment available \
 **Gardening** - always willing to supply homegrown courgettes \
