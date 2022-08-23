@@ -4,9 +4,9 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 ## Skills
 
-**Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin).
+**Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin). As a fast learner, I'm able to pick up new code and concepts very quickly - during my Makers bootcamp, I established a working knowledge of Javascript within a week - making me an adaptable and highly trainable software developer.
 
-**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating effectively is about listening.
+**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating effectively is about listening. 
 
 **Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, theatre and originally composed music).
 
@@ -33,7 +33,7 @@ A Software Developer trained at Makers Academy. My background in the creative an
 - I prioritise promoting genuine interest as I think everyone learns and performs better when they are enjoying themselves
 
 **Head of English at Tennis Avenue Academy** 2015 - 2022  
-- I used an ability to think at a high level to plan the curriculum for English for the whole school
+- thinking at a high level to plan the curriculum for English for the whole school
 - communication skills were essential in teaching classes
 - careful and empthetic communication were essential in giving feedback and promoting growth
 
