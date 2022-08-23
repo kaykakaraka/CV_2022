@@ -1,4 +1,4 @@
-<centre><img src='./name.png' alt-text='Kay Dent'></centre>
+![Kay Dent!](./name.png "Kay Dent")
            
 A Software Developer trained at Makers Academy. My background in the creative and education industries makes me an excellent communicator and team player.  I love solving problems, discovering new things, and the little fizz of satisfaction when the code finally passes your test.  
   
