@@ -49,9 +49,9 @@ This makes me well suited to software development teams of all sizes. In my Make
 ## Education
 
 #### Makers Academy May 2022 - Now
-- Ruby
-- Rspec
-- Frequently pairing to solve problems
+- Frequent pairing and group work developed my ability to work in a team
+- Built a strong foundation in TDD and OOP, using frequent reviews to continually improve and refine my process 
+- Embraced uncertainty and challenge, throwing myself into new languages, new projects and experiences
 
 #### University of Cambridge, 2012-2015
 
