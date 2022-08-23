@@ -4,9 +4,11 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 ## Skills
 
-**Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin). As a fast learner, I'm able to pick up new code and concepts very quickly - during my Makers bootcamp, I established a working knowledge of Javascript within a week - making me an adaptable, resilient and highly trainable software developer.
+**Fast (and positive) Learner** - I learnt the violin as an adult: I'm not afraid of struggling with something to begin with and believe very strongly that if I can't do it now, then at some point I will be able to. Pretty much, I love learning! (And now I love playing the violin too). 
+As a fast learner, I'm able to pick up new code and concepts very quickly - during my Makers bootcamp, I established a working knowledge of Javascript within a week - making me an adaptable, resilient and highly trainable software developer.
 
-**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating effectively is about listening. 
+**Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows, including as a director and as a deviser. The key thing I've taken from all this is that communicating effectively is about listening and that effective leadership is about making sure that everyone in the team is heard and feels respected. 
+This makes me well suited to software development teams of all sizes. In my Makers experience, the main barriers we faced in group work were about communication, not technical blockers, and I believe my willingness to engage constructively, kindly and respectfully was a meaningful contribution to overall group cohesion..
 
 **Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, theatre and originally composed music).
 
@@ -15,9 +17,9 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 | Name                         | Description                                                             | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
-| OpenBook                     | An independent bookshop finder                                          | Javascript, MongDB Atlas, Jade      | 
-| MakersBNB                    | A clone of AirBNB                                                       | Ruby                                |
-| Student Directory            | A command line app to interact with a list of students and their cohort | Ruby                                |
+| OpenBook | An independent bookshop finder | Javascript, MongDB Atlas, Jade, Cypress, Express, Heroku, MapBox | 
+| MakersBNB | A clone of AirBNB | Ruby |
+| Instagram Clone | A clone of  | Ruby                                |
   
 
 ## Work Experience
@@ -58,8 +60,8 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 ## Hobbies
 
-**Violin** - entertainment available
-**Gardening** - always willing to supply homegrown courgettes
-**Writing** - Samples on request and in return for praise
-**Organising random events for fun** - I may invite you to a poetry night at some point
+**Violin** - entertainment available \
+**Gardening** - always willing to supply homegrown courgettes \
+**Writing** - Samples on request and in return for praise \
+**Organising random events for fun** - I may invite you to a poetry night at some point \
 **Reading** - The English degree didn't quite put me off 
