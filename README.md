@@ -24,7 +24,7 @@ Projects
 | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
 | [OpenBook](https://github.com/BenjaminNeustadt/OPEN-BOOK) | An independent bookshop finder | Javascript, MongDB Atlas, Jade, Cypress, Express, Heroku, MapBox | 
 | [MakersBNB](https://github.com/BenjaminNeustadt/MakersBNB) | A clone of AirBNB | Ruby |
-| [Instagram Challenge](https://github.com/kaykakaraka/instagram-challenge) | A clone of Instagram  | Ruby                                |
+| [Instagram Challenge](https://github.com/kaykakaraka/instagram-challenge) | A clone of Instagram  | Javascript, Express, Jade, Mongoose, Cypress, Multer                                |
 
 Skills 
 ------
