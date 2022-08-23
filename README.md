@@ -76,7 +76,8 @@ Education
 <em>**University of Cambridge**</em> \
 <em>**English BA(Hons) | 2012-2015**</em>
 - Firsts in Practical Criticism, Tragedy and French Literature (including translation)
-- JCR Charities, Environments and Campaigns Officer for 2 years
+- An independent and self-led curriculum developed my initiative, drive and self-starting nature
+- Held positions of responsibility including JCR Charities, Environments and Campaigns Officer for 2 years, and Secretary of the Perne Club, organising termly events with speakers
 - I did a lot of plays!
 
 Hobbies
