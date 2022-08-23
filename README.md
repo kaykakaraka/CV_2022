@@ -23,10 +23,9 @@ Projects
 | [OpenBook](https://github.com/BenjaminNeustadt/OPEN-BOOK) | An independent bookshop finder | Javascript, MongDB Atlas, Jade, Cypress, Express, Heroku, MapBox | 
 | [MakersBNB](https://github.com/BenjaminNeustadt/MakersBNB) | A clone of AirBNB | Ruby |
 | [Instagram Challenge](https://github.com/kaykakaraka/instagram-challenge) | A clone of Instagram  | Ruby                                |
-  
 
 Skills 
---------
+------
 
 **Fast (and positive) Learner** - I learnt the violin as an adult: I'm not afraid of struggling with something to begin with and believe very strongly that if I can't do it now, then at some point I will be able to. Pretty much, I love learning! (And now I love playing the violin too).  
   
