@@ -67,7 +67,8 @@ Professional Experience
 Education
 --------
 
-**Makers Academy | Software Engineering Bootcamp | May 2022 - Aug 2022**
+**Makers Academy**
+**Software Engineering Bootcamp | May 2022 - Aug 2022**
 - Frequent pairing and group work developed my ability to work in a team
 - Built a strong foundation in TDD and OOP, using frequent reviews to continually improve and refine my process 
 - Embraced uncertainty and challenge, throwing myself into new languages, new projects and experiences
