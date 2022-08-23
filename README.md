@@ -24,7 +24,7 @@ This makes me well suited to software development teams of all sizes. In my Make
 
 ## Work Experience
 
-**Freelance Theatre Maker** 
+**Freelance Theatre Maker** 2016 - 2022
 - Shows including digital experience 'how to go outside' which opened my eyes to the creative potential of tech
 - I gained Arts Council funding for show 'Masks/tidal', which I produced during Covid, gaining free rehearsal and performance space and selling out all performances
 - Worked collaboratively to solve problems
