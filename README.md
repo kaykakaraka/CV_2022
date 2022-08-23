@@ -23,7 +23,9 @@ As a fast learner, I'm able to pick up new code and concepts very quickly - duri
   
 This makes me well suited to software development teams of all sizes. In my Makers experience, the main barriers we faced in group work were about communication, not technical blockers, and I believe my willingness to engage constructively, kindly and respectfully was a meaningful contribution to overall group cohesion.
 
-**Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, theatre and originally composed music). <br><br> My versatility means I'm able to deal with the multiple, sometimes apparently conflicting, demands within software engineering, and adapt quickly to new tech stacks. Having worked as a freelancer also means I have a good understanding of business more generally, including the need to make tech that has real-world implementation, explaining my work to others, and balancing competitive quality (sometime perfectionism!) with delivering in a timely way.
+**Versatile** - I maintained a full time career teaching across different subjects and ages, while running my own theatre company putting on 2+ shows a year; I was in the fortunate position to be able to to take the pandemic as an opportunity, and produced some of my best work at this time (including a digital experience combining guided meditation, theatre and originally composed music).  
+  
+My versatility means I'm able to deal with the multiple, sometimes apparently conflicting, demands within software engineering, and adapt quickly to new tech stacks. Having worked as a freelancer also means I have a good understanding of business more generally, including the need to make tech that has real-world implementation, explaining my work to others, and balancing competitive quality (sometime perfectionism!) with delivering in a timely way.
 
 ## Work Experience
 
