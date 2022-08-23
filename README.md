@@ -1,10 +1,13 @@
-<img src='./name.png'>
-
-A Software Developer trained at Makers Academy. My background in the creative and education industries makes me an excellent communicator and team player.  I love solving problems, discovering new things, and the little fizz of satisfaction when the code finally passes your test.
-
+<img src='./name.png' alt-text='Kay Dent'>
+A Software Developer trained at Makers Academy. My background in the creative and education industries makes me an excellent communicator and team player.  I love solving problems, discovering new things, and the little fizz of satisfaction when the code finally passes your test.  
+  
 My first spark of interest in tech came when I was working on a digital theatre show/experience, which was in the form of a guided meditation and included originally composed music. I was responsible for running the tech, and coordinate the various sound software. I found I was fascinated by how this worked and got a great satisfaction out of things coming together. It was the first step towards me realising the creative nature of all tech, and I feel excited for the possibility of working on software that people really want to use, and will be grateful for, like I was.
 
+<<<<<<< HEAD
 <img src='./projects.png'>
+=======
+## Projects  
+>>>>>>> 85b7de7dc5d091ceaf02544abe97ef42bef40a16
 
 | Name                         | Description                                                             | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
@@ -13,7 +16,7 @@ My first spark of interest in tech came when I was working on a digital theatre 
 | [Instagram Challenge](https://github.com/kaykakaraka/instagram-challenge) | A clone of Instagram  | Ruby                                |
   
 
-## Skills
+## Skills  
 
 **Fast (and positive) Learner** - I learnt the violin as an adult: I'm not afraid of struggling with something to begin with and believe very strongly that if I can't do it now, then at some point I will be able to. Pretty much, I love learning! (And now I love playing the violin too).  
   
