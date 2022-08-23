@@ -8,9 +8,9 @@ My first spark of interest in tech came when I was working on a digital theatre 
 
 | Name                         | Description                                                             | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
-| OpenBook | An independent bookshop finder | Javascript, MongDB Atlas, Jade, Cypress, Express, Heroku, MapBox | 
-| MakersBNB | A clone of AirBNB | Ruby |
-| Instagram Clone | A clone of Instagram  | Ruby                                |
+| [OpenBook](https://github.com/BenjaminNeustadt/OPEN-BOOK) | An independent bookshop finder | Javascript, MongDB Atlas, Jade, Cypress, Express, Heroku, MapBox | 
+| [MakersBNB](https://github.com/BenjaminNeustadt/MakersBNB) | A clone of AirBNB | Ruby |
+| [Instagram Challenge](https://github.com/kaykakaraka/instagram-challenge) | A clone of Instagram  | Ruby                                |
   
 
 ## Skills
