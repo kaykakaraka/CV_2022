@@ -34,7 +34,7 @@ I learnt the violin as an adult: I'm not afraid of struggling with something to 
   
 As a fast learner, I'm able to pick up new code and concepts very quickly - during my Makers bootcamp, I established a working knowledge of Javascript within a week - making me an adaptable, resilient and highly trainable software developer.
 
-**Excellent communicator** \  
+**Excellent communicator** \ 
 I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows, including as a director and as a deviser. The key thing I've taken from all this is that communicating effectively is about listening and that effective leadership is about making sure that everyone in the team is heard and feels respected.  
   
 This makes me well suited to software development teams of all sizes. In my Makers experience, the main barriers we faced in group work were about communication, not technical blockers, and I believe my willingness to engage constructively, kindly and respectfully was a meaningful contribution to overall group cohesion.
