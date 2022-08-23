@@ -4,7 +4,7 @@ A Software Developer trained at Makers Academy. My background in the creative an
 
 ## Skills
 
-**Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin). As a fast learner, I'm able to pick up new code and concepts very quickly - during my Makers bootcamp, I established a working knowledge of Javascript within a week - making me an adaptable and highly trainable software developer.
+**Fast (and positive) Learner** - I learnt the violin as an adult - I'm not afraid of being bad at something to begin with and believe very strongly that if I can't do it now - at some point I will be able to. I love learning! (And playing the violin). As a fast learner, I'm able to pick up new code and concepts very quickly - during my Makers bootcamp, I established a working knowledge of Javascript within a week - making me an adaptable, resilient and highly trainable software developer.
 
 **Excellent communicator** - I've performed to large and small audiences; taught adults and children; and collaborated with many different teams to make shows. The key thing I've taken from all this is that communicating effectively is about listening. 
 
