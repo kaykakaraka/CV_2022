@@ -1,4 +1,7 @@
-<img src='./name.png' alt-text='Kay Dent'>
+<img src='./name.png' alt-text='Kay Dent' style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;">
 A Software Developer trained at Makers Academy. My background in the creative and education industries makes me an excellent communicator and team player.  I love solving problems, discovering new things, and the little fizz of satisfaction when the code finally passes your test.  
   
 My first spark of interest in tech came when I was working on a digital theatre show/experience, which was in the form of a guided meditation and included originally composed music. I was responsible for running the tech, and coordinate the various sound software. I found I was fascinated by how this worked and got a great satisfaction out of things coming together. It was the first step towards me realising the creative nature of all tech, and I feel excited for the possibility of working on software that people really want to use, and will be grateful for, like I was.
