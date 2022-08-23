@@ -5,7 +5,7 @@
 <p>
   <div align="center">
     <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#projects">Projects</a> |  
-    <a href="https://github.com/Kay-Dent/CV/blob/main/README.md#skills">Skills</a> 
+    <a href="https://github.com/kaykakaraka/CV_2022/blob/main/README.md#skills">Skills</a> 
   </div>
 </p>
 
