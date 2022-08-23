@@ -1,6 +1,4 @@
-<div align='center'>
-  <img src='./name.png'>
-</div>
+<h1 align='centre'>Kay Dent</h1>
 
 <p>
   <div align="center">
