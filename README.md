@@ -44,22 +44,22 @@ My versatility means I'm able to deal with the multiple, sometimes apparently co
 Professional Experience
 -------------
 
-**Freelance Theatre Maker | 2016 - 2022
+**Freelance Theatre Maker | 2016 - 2022**
 - Shows including digital experience 'how to go outside' which opened my eyes to the creative potential of tech
 - I gained Arts Council funding for show 'Masks/tidal', which I produced during Covid, gaining free rehearsal and performance space and selling out all performances
 - Worked collaboratively to solve problems
 
-**Freelance Tutor | 2015 - Now
+**Freelance Tutor | 2015 - Now**
 - more recently specialising in teaching GCSE Maths and Science
 - using empathy and adaptive communication skills to work with a wide variety of students at a range of levels
 - I prioritise promoting genuine interest as I think everyone learns and performs better when they are enjoying themselves
 
-**Head of English | Tennis Avenue Academy | 2015 - 2022  
+**Head of English | Tennis Avenue Academy | 2015 - 2022**
 - thinking at a high level to plan the curriculum for English for the whole school
 - communication skills were essential in teaching classes
 - careful and empthetic communication were essential in giving feedback and promoting growth
 
-**Freelance Performer | 2015-2020
+**Freelance Performer | 2015-2020**
 - performing in the UK and abroad
 - touring and working intensively with a small group
 - puppeteering
@@ -67,12 +67,12 @@ Professional Experience
 Education
 --------
 
-**Makers Academy | Software Engineering Bootcamp | May 2022 - Aug 2022 |
+**Makers Academy | Software Engineering Bootcamp | May 2022 - Aug 2022**
 - Frequent pairing and group work developed my ability to work in a team
 - Built a strong foundation in TDD and OOP, using frequent reviews to continually improve and refine my process 
 - Embraced uncertainty and challenge, throwing myself into new languages, new projects and experiences
 
-**University of Cambridge | English BA(Hons) | 2012-2015
+**University of Cambridge | English BA(Hons) | 2012-2015**
 - Firsts in Practical Criticism, Tragedy and French Literature (including translation)
 - JCR Charities, Environments and Campaigns Officer for 2 years
 - I did a lot of plays!
