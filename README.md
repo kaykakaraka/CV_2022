@@ -68,13 +68,13 @@ Education
 --------
 
 <em>**Makers Academy**</em> \
-**Software Engineering Bootcamp | May 2022 - Aug 2022**
+<em>**Software Engineering Bootcamp | May 2022 - Aug 2022**</em>
 - Frequent pairing and group work developed my ability to work in a team
 - Built a strong foundation in TDD and OOP, using frequent reviews to continually improve and refine my process 
 - Embraced uncertainty and challenge, throwing myself into new languages, new projects and experiences
 
-**University of Cambridge** \
-**English BA(Hons) | 2012-2015**
+<em>**University of Cambridge**</em> \
+<em>**English BA(Hons) | 2012-2015**</em>
 - Firsts in Practical Criticism, Tragedy and French Literature (including translation)
 - JCR Charities, Environments and Campaigns Officer for 2 years
 - I did a lot of plays!
