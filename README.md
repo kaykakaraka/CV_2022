@@ -21,7 +21,7 @@ This makes me well suited to software development teams of all sizes. In my Make
 | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
 | OpenBook | An independent bookshop finder | Javascript, MongDB Atlas, Jade, Cypress, Express, Heroku, MapBox | 
 | MakersBNB | A clone of AirBNB | Ruby |
-| Instagram Clone | A clone of  | Ruby                                |
+| Instagram Clone | A clone of Instagram  | Ruby                                |
   
 
 ## Work Experience
