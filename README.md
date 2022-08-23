@@ -73,7 +73,8 @@ Education
 - Built a strong foundation in TDD and OOP, using frequent reviews to continually improve and refine my process 
 - Embraced uncertainty and challenge, throwing myself into new languages, new projects and experiences
 
-**University of Cambridge | English BA(Hons) | 2012-2015**
+**University of Cambridge \
+**English BA(Hons) | 2012-2015**
 - Firsts in Practical Criticism, Tragedy and French Literature (including translation)
 - JCR Charities, Environments and Campaigns Officer for 2 years
 - I did a lot of plays!
