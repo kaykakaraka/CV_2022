@@ -3,11 +3,7 @@ A Software Developer trained at Makers Academy. My background in the creative an
   
 My first spark of interest in tech came when I was working on a digital theatre show/experience, which was in the form of a guided meditation and included originally composed music. I was responsible for running the tech, and coordinate the various sound software. I found I was fascinated by how this worked and got a great satisfaction out of things coming together. It was the first step towards me realising the creative nature of all tech, and I feel excited for the possibility of working on software that people really want to use, and will be grateful for, like I was.
 
-<<<<<<< HEAD
 <img src='./projects.png'>
-=======
-## Projects  
->>>>>>> 85b7de7dc5d091ceaf02544abe97ef42bef40a16
 
 | Name                         | Description                                                             | Tech/tools                          |
 | ---------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
