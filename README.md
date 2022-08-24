@@ -47,25 +47,27 @@ My versatility means I'm able to deal with the multiple, sometimes apparently co
 Professional Experience
 -------------
 
-**Freelance Theatre Maker | 2016 - 2022**
-- Shows including digital experience 'how to go outside' which opened my eyes to the creative potential of tech
-- I gained Arts Council funding for show 'Masks/tidal', which I produced during Covid, gaining free rehearsal and performance space and selling out all performances
-- Worked collaboratively to solve problems
-
 **Freelance Tutor | 2015 - Now**
-- more recently specialising in teaching GCSE Maths and Science
-- using empathy and adaptive communication skills to work with a wide variety of students at a range of levels
-- I prioritise promoting genuine interest as I think everyone learns and performs better when they are enjoying themselves
-
+- used empathy and adaptive communication skills to work with a wide variety of students at a range of levels
+- I had to learn quickly to adapt to client needs, quickly recapping the Maths and Science GCSE syllabuses when this became more in demand
+- By prioritising genuine interest and self-confidence, my students became more self-motivated and able to work independently
+- 
 **Head of English | Tennis Avenue Academy | 2015 - 2022**
-- thinking at a high level to plan the curriculum for English for the whole school
+- conceptualised detailed information at a high level in order to plan and write the English curriculum for the whole school
 - communication skills were essential in teaching classes
-- careful and empthetic communication were essential in giving feedback and promoting growth
+- careful and empthetic communication aided me in giving feedback and promoting growth
+- combined a positive learning environemnt with an awareness of targets so that students excelled above their expected level, giving the school an impressive academic record in English
+
+**Freelance Theatre Maker | 2016 - 2022**
+- Used excellent organisational skills to arrange rehearsals and events
+- Used adaptive communication to collaborate effectively with a variety of stakeholders, eg. actors, composers, venue managers, audience, writers
+- I wrote an Arts Council funding for show 'Masks/tidal', which I produced during Covid, gaining free rehearsal and performance space and selling out all performances
+- My adaptability proved helpful when dealing with last minute changes, for example actor illness or changes in covid restrictions for performances
 
 **Freelance Performer | 2015-2020**
-- performing in the UK and abroad
-- touring and working intensively with a small group
-- puppeteering
+- worked collaboratively performing in the UK and abroad
+- drew on my resilience when working long days away from home, getting up early and doing physically demanding work
+- used empathy, clear and kind communication in order to maintain good relationships with my fellow performers
 
 Education
 --------
