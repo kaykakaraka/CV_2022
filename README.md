@@ -47,27 +47,27 @@ My versatility means I'm able to deal with the multiple, sometimes apparently co
 Professional Experience
 -------------
 
-**Academic Tutor**
+**Academic Tutor** \
 **Freelance | 2015 - Now**
 - used empathy and adaptive communication skills to work with a wide variety of students at a range of levels
 - I had to learn quickly to adapt to client needs, quickly recapping the Maths and Science GCSE syllabuses when this became more in demand
 - By prioritising genuine interest and self-confidence, my students became more self-motivated and able to work independently
 - 
-**Head of English**
+**Head of English** \
 **Tennis Avenue Academy | 2015 - 2022**
 - conceptualised detailed information at a high level in order to plan and write the English curriculum for the whole school
 - communication skills were essential in teaching classes
 - careful and empthetic communication aided me in giving feedback and promoting growth
 - combined a positive learning environemnt with an awareness of targets so that students excelled above their expected level, giving the school an impressive academic record in English
 
-**Theatre Maker: Director, Producer, Writer, and more**
+**Theatre Maker: Director, Producer, Writer, and more** \
 **Freelance | 2016 - 2022**
 - Used excellent organisational skills to arrange rehearsals and events
 - Used adaptive communication to collaborate effectively with a variety of stakeholders, eg. actors, composers, venue managers, audience, writers
 - I wrote an Arts Council funding for show 'Masks/tidal', which I produced during Covid, gaining free rehearsal and performance space and selling out all performances
 - My adaptability proved helpful when dealing with last minute changes, for example actor illness or changes in covid restrictions for performances
 
-**Performer**
+**Performer** \
 **Freelance | 2015-2020**
 - worked collaboratively performing in the UK and abroad
 - drew on my resilience when working long days away from home, getting up early and doing physically demanding work
