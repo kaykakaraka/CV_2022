@@ -52,7 +52,7 @@ Professional Experience
 - used empathy and adaptive communication skills to work with a wide variety of students at a range of levels
 - I had to learn quickly to adapt to client needs, quickly recapping the Maths and Science GCSE syllabuses when this became more in demand
 - By prioritising genuine interest and self-confidence, my students became more self-motivated and able to work independently
-- 
+
 **Head of English** \
 **Tennis Avenue Academy | 2015 - 2022**
 - conceptualised detailed information at a high level in order to plan and write the English curriculum for the whole school
